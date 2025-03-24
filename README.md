@@ -1,4 +1,4 @@
-# 👋 Xin chào, tôi là Hoa Trần!
+# 👋 Xin chào, tôi là Hòa Trần!
 
 ## 🚀 Giới thiệu  
 Tôi là một lập trình viên đam mê công nghệ, yêu thích khám phá và phát triển phần mềm. Luôn sẵn sàng học hỏi và nhận các cơ hội hợp tác thú vị trong nhiều lĩnh vực công nghệ.  
